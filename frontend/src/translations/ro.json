@@ -1,0 +1,48 @@
+{
+  "card": {},
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Restrângere la dezactivare",
+        "content_info": "Conținut",
+        "fill_container": "Umplere container",
+        "icon_color": "Culoare pictogramă",
+        "icon_type": "Tip pictogramă",
+        "layout": "Aranjare",
+        "primary_info": "Informație principală",
+        "secondary_info": "Informație secundară",
+        "use_entity_picture": "Imagine?"
+      },
+      "vacuum": {
+        "commands": "Comenzi"
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Tip implicit",
+          "entity-picture": "Imagine",
+          "icon": "Pictogramă",
+          "none": "Niciuna"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Informație implicită",
+          "last-changed": "Ultima modificare",
+          "last-updated": "Ultima actulizare",
+          "name": "Nume",
+          "none": "Niciuna",
+          "state": "Stare"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Aranjare implicită",
+          "horizontal": "Orizontală",
+          "vertical": "Verticală"
+        }
+      }
+    }
+  }
+}

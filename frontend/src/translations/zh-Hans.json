@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "未找到实体"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "关闭时隐藏控制器",
+        "color": "颜色",
+        "content_info": "内容",
+        "fill_container": "填满容器",
+        "icon_animation": "激活时使用动态图标?",
+        "icon_color": "图标颜色",
+        "icon_type": "图标类型",
+        "layout": "布局",
+        "primary_info": "首要信息",
+        "secondary_info": "次要信息",
+        "use_entity_picture": "使用实体图片?"
+      },
+      "vacuum": {
+        "commands": "命令",
+        "commands_list": {
+          "on_off": "开/关"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "默认类型",
+          "entity-picture": "实体图片",
+          "icon": "图标",
+          "none": "无"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "默认信息",
+          "last-changed": "变更时间",
+          "last-updated": "更新时间",
+          "name": "名称",
+          "none": "无",
+          "state": "状态"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "默认布局",
+          "horizontal": "水平布局",
+          "vertical": "垂直布局"
+        }
+      }
+    }
+  }
+}

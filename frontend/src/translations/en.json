@@ -1,0 +1,59 @@
+{
+  "card": {
+    "not_found": "Entity not found"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "entity": "Entity",
+        "area": "Area",
+        "color": "Color",
+        "content_info": "Content",
+        "fill_container": "Fill container",
+        "icon_animation": "Animate icon when active?",
+        "icon_color": "Icon color",
+        "icon_type": "Icon type",
+        "layout": "Layout",
+        "primary_info": "Primary information",
+        "secondary_info": "Secondary information",
+        "use_entity_picture": "Use entity picture?",
+        "collapsible_controls": "Collapse controls when off",
+        "picture": "Picture",
+        "picture_helper": "If set, it will replace the icon."
+      },
+      "vacuum": {
+        "commands": "Commands",
+        "commands_list": {
+          "on_off": "Turn on/off"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Default type",
+          "entity-picture": "Entity picture",
+          "icon": "Icon",
+          "none": "None"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Default information",
+          "last-changed": "Last Changed",
+          "last-updated": "Last Updated",
+          "name": "Name",
+          "none": "None",
+          "state": "State"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Default layout",
+          "horizontal": "Horizontal layout",
+          "vertical": "Vertical layout"
+        }
+      }
+    }
+  }
+}

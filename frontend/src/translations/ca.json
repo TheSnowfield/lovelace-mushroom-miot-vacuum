@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "No s'ha trobat l'entitat"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Amaga els controls en desactivar",
+        "color": "Color",
+        "content_info": "Contingut",
+        "fill_container": "Emplena el contenidor",
+        "icon_animation": "Animar icona en activar?",
+        "icon_color": "Color d'icona",
+        "icon_type": "Tipus d'icona",
+        "layout": "Distribució",
+        "primary_info": "Informació primaria",
+        "secondary_info": "Informació secundaria",
+        "use_entity_picture": "Fer servir la imatge de l'entitat?"
+      },
+      "vacuum": {
+        "commands": "Comandaments",
+        "commands_list": {
+          "on_off": "Engegar/Apagar"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Tipus per defecte",
+          "entity-picture": "Entitat d'imatge",
+          "icon": "Icona",
+          "none": "Cap"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Informació per defecte",
+          "last-changed": "Últim Canvi",
+          "last-updated": "Última Actualització",
+          "name": "Nom",
+          "none": "Cap",
+          "state": "Estat"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Distribució per defecte",
+          "horizontal": "Distribució horitzontal",
+          "vertical": "Distribució vertical"
+        }
+      }
+    }
+  }
+}

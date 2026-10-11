@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "لم يتم العثور على الكيان"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "تصغير عناصر التحكم عند الإيقاف",
+        "color": "اللون",
+        "content_info": "المحتوى",
+        "fill_container": "ملئ الحاوية",
+        "icon_animation": "تحريك الرمز عندما يكون نشطًا؟",
+        "icon_color": "لون الأيقونة",
+        "icon_type": "نوع الأيقونة",
+        "layout": "التخطيط",
+        "primary_info": "المعلومات الأساسية",
+        "secondary_info": "المعلومات الفرعية",
+        "use_entity_picture": "استخدم صورة الكيان؟"
+      },
+      "vacuum": {
+        "commands": "الاوامر",
+        "commands_list": {
+          "on_off": "تشغيل/إيقاف"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "النوع افتراضي",
+          "entity-picture": "صورة الكيان",
+          "icon": "أيقونة",
+          "none": "لا شئ"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "المعلومات الافتراضية",
+          "last-changed": "آخر تغيير",
+          "last-updated": "آخر تحديث",
+          "name": "الإسم",
+          "none": "لا شئ",
+          "state": "الحالة"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "تخطيط افتراضي",
+          "horizontal": "تخطيط أفقي",
+          "vertical": "تخطيط رأسي"
+        }
+      }
+    }
+  }
+}

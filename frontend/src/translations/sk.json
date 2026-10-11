@@ -1,0 +1,59 @@
+{
+  "card": {
+    "not_found": "Entita nenájdená"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "area": "Oblasť",
+        "collapsible_controls": "Skryť ovládanie v stave VYP",
+        "color": "Farba",
+        "content_info": "Obsah",
+        "entity": "Entita",
+        "fill_container": "Vyplniť priestor",
+        "icon_animation": "Animovaná ikona v stave ZAP?",
+        "icon_color": "Farba ikony",
+        "icon_type": "Typ ikony",
+        "layout": "Rozloženie",
+        "picture": "Obrázok",
+        "picture_helper": "Ak je nastavené, nahradí ikonu.",
+        "primary_info": "Základné info",
+        "secondary_info": "Doplnkové info",
+        "use_entity_picture": "Použiť obrázok entity?"
+      },
+      "vacuum": {
+        "commands": "Príkazy",
+        "commands_list": {
+          "on_off": "Zapnúť/Vypnúť"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Predvolený typ",
+          "entity-picture": "Obrázok entity",
+          "icon": "Ikona",
+          "none": "Žiadny"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Predvolené informácie",
+          "last-changed": "Posledná zmena",
+          "last-updated": "Posledná aktualizácia",
+          "name": "Názov",
+          "none": "Žiadna",
+          "state": "Stav"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Predvolené rozloženie",
+          "horizontal": "Vodorovné rozloženie",
+          "vertical": "Zvislé rozloženie"
+        }
+      }
+    }
+  }
+}

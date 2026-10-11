@@ -1,0 +1,52 @@
+{
+  "card": {},
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Свий контролите при изключен",
+        "content_info": "Съдържание",
+        "fill_container": "Изпълване на контейнера",
+        "icon_animation": "Анимирай иконата при активен?",
+        "icon_color": "Цвят на икона",
+        "icon_type": "Тип на икона",
+        "layout": "Оформление",
+        "primary_info": "Първостепенна информация",
+        "secondary_info": "Второстепенна информация",
+        "use_entity_picture": "Използвай снимката на обекта?"
+      },
+      "vacuum": {
+        "commands": "Конади",
+        "commands_list": {
+          "on_off": "Вкл./Изкл."
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Основен тип",
+          "entity-picture": "Картина на обекта",
+          "icon": "Икона",
+          "none": "Липсва"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Основна информация",
+          "last-changed": "Последно Променен",
+          "last-updated": "Последно Актуализиран",
+          "name": "Име",
+          "none": "Липсва",
+          "state": "Състояние"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Основно оформление",
+          "horizontal": "Хоризонтално оформление",
+          "vertical": "Вертикално оформление"
+        }
+      }
+    }
+  }
+}

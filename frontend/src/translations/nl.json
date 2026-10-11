@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "Entiteit niet gevonden"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Bedieningselementen verbergen wanneer uitgeschakeld",
+        "color": "Kleur",
+        "content_info": "Inhoud",
+        "fill_container": "Vul container",
+        "icon_animation": "Icoon animeren indien actief?",
+        "icon_color": "Icoon kleur",
+        "icon_type": "Icoon type",
+        "layout": "Lay-out",
+        "primary_info": "Primaire informatie",
+        "secondary_info": "Secundaire informatie",
+        "use_entity_picture": "Gebruik afbeelding van entiteit?"
+      },
+      "vacuum": {
+        "commands": "Commando's",
+        "commands_list": {
+          "on_off": "Zet aan/uit"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Standaard icoon type",
+          "entity-picture": "Entiteit afbeelding",
+          "icon": "Icoon",
+          "none": "Geen"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Standaard informatie",
+          "last-changed": "Laatst gewijzigd",
+          "last-updated": "Laatst bijgewerkt",
+          "name": "Naam",
+          "none": "Geen",
+          "state": "Staat"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Standaard lay-out",
+          "horizontal": "Horizontale lay-out",
+          "vertical": "Verticale lay-out"
+        }
+      }
+    }
+  }
+}

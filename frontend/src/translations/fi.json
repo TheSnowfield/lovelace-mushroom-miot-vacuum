@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "Entiteettiä ei löytynyt"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Supista säätimet ollessa pois-tilassa",
+        "color": "Väri",
+        "content_info": "Sisältö",
+        "fill_container": "Täytä alue",
+        "icon_animation": "Animoi kuvake, kun aktiivinen?",
+        "icon_color": "Ikonin väri",
+        "icon_type": "Kuvakkeen tyyppi",
+        "layout": "Asettelu",
+        "primary_info": "Ensisijaiset tiedot",
+        "secondary_info": "Toissijaiset tiedot",
+        "use_entity_picture": "Käytä kohteen kuvaa?"
+      },
+      "vacuum": {
+        "commands": "Komennot",
+        "commands_list": {
+          "on_off": "Kytke päälle/pois"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Oletustyyppi",
+          "entity-picture": "Kohteen kuva",
+          "icon": "Kuvake",
+          "none": "Ei mitään"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Oletustiedot",
+          "last-changed": "Viimeksi muuttunut",
+          "last-updated": "Viimeksi päivittynyt",
+          "name": "Nimi",
+          "none": "Ei mitään",
+          "state": "Tila"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Oletusasettelu",
+          "horizontal": "Vaakasuuntainen",
+          "vertical": "Pystysuuntainen"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "card": {
+    "not_found": "Entitás nem található"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Vezérlők összezárása kikapcsolt állapotban",
+        "content_info": "Tartalom",
+        "fill_container": "Tároló kitöltése",
+        "icon_animation": "Ikon animálása aktív állapotban",
+        "icon_color": "Ikon szín",
+        "icon_type": "Ikon típus",
+        "layout": "Elrendezés",
+        "primary_info": "Elsődleges információ",
+        "secondary_info": "Másodlagos információ",
+        "use_entity_picture": "Entitás kép használata"
+      },
+      "vacuum": {
+        "commands": "Utasítások",
+        "commands_list": {
+          "on_off": "Ki/Bekapcsolás"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Alapértelmezett típus",
+          "entity-picture": "Entitás kép",
+          "icon": "Ikon",
+          "none": "Egyik sem"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Alepértelmezett információ",
+          "last-changed": "Utoljára módosítva",
+          "last-updated": "Utoljára frissítve",
+          "name": "Név",
+          "none": "Egyik sem",
+          "state": "Állapot"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Alapértelmezet elrendezés",
+          "horizontal": "Vízszintes elrendezés",
+          "vertical": "Függőleges elrendezés"
+        }
+      }
+    }
+  }
+}

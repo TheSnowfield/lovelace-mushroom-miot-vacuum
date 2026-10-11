@@ -1,0 +1,38 @@
+{
+  "card": {},
+  "editor": {
+    "card": {
+      "generic": {
+        "content_info": "Περιεχόμενο",
+        "icon_animation": "Κίνηση εικονιδίου όταν είναι ενεργό;",
+        "icon_color": "Χρώμα εικονιδίου",
+        "layout": "Διάταξη",
+        "primary_info": "Πρωτεύουσες πληροφορίες",
+        "secondary_info": "Δευτερεύουσες πληροφορίες",
+        "use_entity_picture": "Χρήση εικόνας οντότητας;"
+      },
+      "vacuum": {
+        "commands": "Εντολές"
+      }
+    },
+    "form": {
+      "info_picker": {
+        "values": {
+          "default": "Προεπιλεγμένες πληροφορίες",
+          "last-changed": "Τελευταία αλλαγή",
+          "last-updated": "Τελευταία ενημέρωση",
+          "name": "Όνομα",
+          "none": "Τίποτα",
+          "state": "Κατάσταση"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Προεπιλεγμένη διάταξη",
+          "horizontal": "Οριζόντια διάταξη",
+          "vertical": "Κάθετη διάταξη"
+        }
+      }
+    }
+  }
+}

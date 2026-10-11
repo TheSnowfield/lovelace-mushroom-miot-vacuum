@@ -1,0 +1,54 @@
+{
+  "card": {
+    "not_found": "Entita nebyla nalezena"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Pokud je vypnuto, skrýt ovládací prvky",
+        "content_info": "Obsah",
+        "fill_container": "Vyplnit prostor",
+        "icon_animation": "Pokud je aktivní, animovat ikonu?",
+        "icon_color": "Barva ikony",
+        "icon_type": "Typ ikony",
+        "layout": "Rozložení",
+        "primary_info": "Primární informace",
+        "secondary_info": "Sekundární informace",
+        "use_entity_picture": "Použít ikonu entity?"
+      },
+      "vacuum": {
+        "commands": "Příkazy",
+        "commands_list": {
+          "on_off": "Zapnout/Vypnout"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Výchozí typ",
+          "entity-picture": "Ikona entity",
+          "icon": "Ikona",
+          "none": "Nic"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Výchozí informace",
+          "last-changed": "Poslední změna",
+          "last-updated": "Poslední aktualizace",
+          "name": "Název",
+          "none": "Nic",
+          "state": "Stav"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Výchozí rozložení",
+          "horizontal": "Vodorovné rozložení",
+          "vertical": "Svislé rozložení"
+        }
+      }
+    }
+  }
+}

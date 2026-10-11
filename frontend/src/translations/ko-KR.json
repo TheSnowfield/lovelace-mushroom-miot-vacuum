@@ -1,0 +1,52 @@
+{
+  "card": {},
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "꺼져있을 때 컨트롤 접기",
+        "content_info": "내용 정보",
+        "fill_container": "콘테이너 채우기",
+        "icon_animation": "활성화 시 아이콘 애니메이션 사용",
+        "icon_color": "아이콘 색",
+        "icon_type": "아이콘 타입",
+        "layout": "레이아웃",
+        "primary_info": "기본 정보",
+        "secondary_info": "보조 정보",
+        "use_entity_picture": "엔티티 사진 사용"
+      },
+      "vacuum": {
+        "commands": "명령어",
+        "commands_list": {
+          "on_off": "켜기/끄기"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "기본 타입",
+          "entity-picture": "엔티티 사진",
+          "icon": "아이콘",
+          "none": "없음"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "기본 정보",
+          "last-changed": "마지막 변경",
+          "last-updated": "마지막 업데이트",
+          "name": "이름",
+          "none": "없음",
+          "state": "상태"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "기본 레이아웃",
+          "horizontal": "수평 레이아웃",
+          "vertical": "수직 레이아웃"
+        }
+      }
+    }
+  }
+}

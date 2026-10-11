@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "Сущность не найдена"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Сворачивать элементы управления при выключении",
+        "color": "Цвет",
+        "content_info": "Содержимое",
+        "fill_container": "Заполнение",
+        "icon_animation": "Анимировать иконку, когда активна?",
+        "icon_color": "Цвет иконки",
+        "icon_type": "Тип иконки",
+        "layout": "Расположение",
+        "primary_info": "Основная информация",
+        "secondary_info": "Второстепенная информация",
+        "use_entity_picture": "Использовать изображение объекта?"
+      },
+      "vacuum": {
+        "commands": "Команды",
+        "commands_list": {
+          "on_off": "Включить/выключить"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "По умолчанию",
+          "entity-picture": "Изображение",
+          "icon": "Иконка",
+          "none": "Нет"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "По умолчанию",
+          "last-changed": "Последнее изменение",
+          "last-updated": "Последнее обновление",
+          "name": "Имя",
+          "none": "Нет",
+          "state": "Статус"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Расположение по умолчанию",
+          "horizontal": "Горизонтальное расположение",
+          "vertical": "Вертикальное расположение"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "Enhed ikke fundet"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Skjul kontroller når slukket",
+        "color": "Farve",
+        "content_info": "Indhold",
+        "fill_container": "Fyld container",
+        "icon_animation": "Animér ikon når aktiv?",
+        "icon_color": "Ikon farve",
+        "icon_type": "Ikon type",
+        "layout": "Layout",
+        "primary_info": "Primær information",
+        "secondary_info": "Sekundær information",
+        "use_entity_picture": "Brug enhedsbillede?"
+      },
+      "vacuum": {
+        "commands": "Kommandoer",
+        "commands_list": {
+          "on_off": "Slå til/fra"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Standard type",
+          "entity-picture": "Enhedsbillede",
+          "icon": "Ikon",
+          "none": "Ingen"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Standard information",
+          "last-changed": "Sidst ændret",
+          "last-updated": "Sidst opdateret",
+          "name": "Navn",
+          "none": "Ingen",
+          "state": "Status"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Standard layout",
+          "horizontal": "Horisontal layout",
+          "vertical": "Vertikal layout"
+        }
+      }
+    }
+  }
+}

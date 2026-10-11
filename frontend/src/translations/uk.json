@@ -1,0 +1,54 @@
+{
+  "card": {
+    "not_found": "Сутність не знайдено"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Приховувати елементи керування коли вимкнено?",
+        "content_info": "Вміст",
+        "fill_container": "Заповнити контейнер",
+        "icon_animation": "Анімувати іконку при активації?",
+        "icon_color": "Колір іконки",
+        "icon_type": "Тип іконки",
+        "layout": "Розташування",
+        "primary_info": "Головна інформація",
+        "secondary_info": "Додаткова інформація",
+        "use_entity_picture": "Використовувати зображення сутності?"
+      },
+      "vacuum": {
+        "commands": "Команди",
+        "commands_list": {
+          "on_off": "Увімкнути/Вимкнути"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "За замовчуванням",
+          "entity-picture": "Зображення сутності",
+          "icon": "Іконка",
+          "none": "Нічого"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Інформація за замовчуванням",
+          "last-changed": "Востаннє змінено",
+          "last-updated": "Востаннє оновлено",
+          "name": "Назва",
+          "none": "Нічого",
+          "state": "Стан"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Розташування за замовчуванням",
+          "horizontal": "Горизонтальне розташування",
+          "vertical": "Вертикальне розташування"
+        }
+      }
+    }
+  }
+}

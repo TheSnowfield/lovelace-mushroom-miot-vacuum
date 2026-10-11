@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "Enheten hittades inte"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Dölj kontroller när enheten är av",
+        "color": "Färg",
+        "content_info": "Innehåll",
+        "fill_container": "Fyll container",
+        "icon_animation": "Animera ikonen när enheten är på?",
+        "icon_color": "Ikonens färg",
+        "icon_type": "Ikontyp",
+        "layout": "Layout",
+        "primary_info": "Primär information",
+        "secondary_info": "Sekundär information",
+        "use_entity_picture": "Använd enhetens bild?"
+      },
+      "vacuum": {
+        "commands": "Kommandon",
+        "commands_list": {
+          "on_off": "Slå av/på"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Standard typ",
+          "entity-picture": "Enhetsbild",
+          "icon": "Ikon",
+          "none": "Ingen"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Förvald information",
+          "last-changed": "Sist ändrad",
+          "last-updated": "Sist uppdaterad",
+          "name": "Namn",
+          "none": "Ingen",
+          "state": "Status"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Standard",
+          "horizontal": "Horisontell",
+          "vertical": "Vertikal"
+        }
+      }
+    }
+  }
+}

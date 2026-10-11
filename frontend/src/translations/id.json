@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "Entitas tidak ditemukan"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Sembunyikan kontrol saat mati",
+        "color": "Warna",
+        "content_info": "Konten",
+        "fill_container": "Isi kontainer",
+        "icon_animation": "Animasikan ikon saat aktif?",
+        "icon_color": "Warna ikon",
+        "icon_type": "Tipe ikon",
+        "layout": "Tata letak",
+        "primary_info": "Informasi primer",
+        "secondary_info": "Informasi sekunder",
+        "use_entity_picture": "Gunakan gambar entitas?"
+      },
+      "vacuum": {
+        "commands": "Perintah",
+        "commands_list": {
+          "on_off": "Nyalakan/Matikan"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Tipe bawaan",
+          "entity-picture": "Gambar entitas",
+          "icon": "Ikon",
+          "none": "Tidak ada"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Informasi bawaan",
+          "last-changed": "Terakhir Diubah",
+          "last-updated": "Terakhir Diperbarui",
+          "name": "Nama",
+          "none": "Tidak ada",
+          "state": "Status"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Tata letak bawaan",
+          "horizontal": "Tata letak horizontal",
+          "vertical": "Tata letak vertikal"
+        }
+      }
+    }
+  }
+}

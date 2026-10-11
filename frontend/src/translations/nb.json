@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "Enhet ikke funnet"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Skjul kontroller når av",
+        "color": "Farge",
+        "content_info": "Innhold",
+        "fill_container": "Fyll beholder",
+        "icon_animation": "Animer ikon når aktivt?",
+        "icon_color": "Ikon farge",
+        "icon_type": "Ikontype",
+        "layout": "Oppsett",
+        "primary_info": "Primærinformasjon",
+        "secondary_info": "Sekundærinformasjon",
+        "use_entity_picture": "Bruk enhetsbilde?"
+      },
+      "vacuum": {
+        "commands": "Kommandoer",
+        "commands_list": {
+          "on_off": "Slå på/av"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Standard type",
+          "entity-picture": "Enhetsbilde",
+          "icon": "Ikon",
+          "none": "Ingen"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Standard informasjon",
+          "last-changed": "Sist endret",
+          "last-updated": "Sist oppdatert",
+          "name": "Navn",
+          "none": "Ingen",
+          "state": "Tilstand"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Standardoppsett",
+          "horizontal": "Horisontalt oppsett",
+          "vertical": "Vertikalt oppsett"
+        }
+      }
+    }
+  }
+}

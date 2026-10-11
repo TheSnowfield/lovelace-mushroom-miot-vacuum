@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "Entität nicht gefunden"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Schieberegler einklappen, wenn aus",
+        "color": "Farbe",
+        "content_info": "Inhalt",
+        "fill_container": "Container ausfüllen",
+        "icon_animation": "Icon animieren, wenn aktiv?",
+        "icon_color": "Icon-Farbe",
+        "icon_type": "Icon-Typ",
+        "layout": "Layout",
+        "primary_info": "Primäre Information",
+        "secondary_info": "Sekundäre Information",
+        "use_entity_picture": "Entitätsbild verwenden?"
+      },
+      "vacuum": {
+        "commands": "Befehle",
+        "commands_list": {
+          "on_off": "An/Ausschalten"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Standard-Typ",
+          "entity-picture": "Entitätsbild",
+          "icon": "Icon",
+          "none": "Keines"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Standard-Information",
+          "last-changed": "Letzte Änderung",
+          "last-updated": "Letzte Aktualisierung",
+          "name": "Name",
+          "none": "Keine",
+          "state": "Zustand"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Standard-Layout",
+          "horizontal": "Horizontales Layout",
+          "vertical": "Vertikales Layout"
+        }
+      }
+    }
+  }
+}

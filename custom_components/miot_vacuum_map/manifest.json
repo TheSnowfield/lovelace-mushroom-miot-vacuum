@@ -1,0 +1,14 @@
+{
+  "domain": "miot_vacuum_map",
+  "name": "Miot Vacuum Map",
+  "version": "1.0.0",
+  "dependencies": [
+    "xiaomi_miot",
+    "websocket_api"
+  ],
+  "requirements": [
+    "pycryptodome>=3.15.0"
+  ],
+  "codeowners": [],
+  "iot_class": "cloud_polling"
+}

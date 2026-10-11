@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "Nie znaleziono encji"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Zwiń sterowanie, jeśli wyłączone",
+        "color": "Kolor",
+        "content_info": "Zawartość",
+        "fill_container": "Wypełnij zawartością",
+        "icon_animation": "Animować, gdy aktywny?",
+        "icon_color": "Kolor ikony",
+        "icon_type": "Typ ikony",
+        "layout": "Układ",
+        "primary_info": "Informacje główne",
+        "secondary_info": "Informacje drugorzędne",
+        "use_entity_picture": "Użyć obrazu encji?"
+      },
+      "vacuum": {
+        "commands": "Polecenia",
+        "commands_list": {
+          "on_off": "Włącz/Wyłącz"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Domyślny typ",
+          "entity-picture": "Obraz encji",
+          "icon": "Ikona",
+          "none": "Brak"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Domyślne informacje",
+          "last-changed": "Ostatnia zmiana",
+          "last-updated": "Ostatnia aktualizacja",
+          "name": "Nazwa",
+          "none": "Brak",
+          "state": "Stan"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Układ domyślny",
+          "horizontal": "Układ poziomy",
+          "vertical": "Układ pionowy"
+        }
+      }
+    }
+  }
+}

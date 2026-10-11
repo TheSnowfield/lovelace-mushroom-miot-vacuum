@@ -1,0 +1,59 @@
+{
+  "card": {
+    "not_found": "Không tìm thấy thực thể"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "entity": "Thực thể",
+        "area": "Khu vực",
+        "color": "Màu",
+        "content_info": "Nội dung",
+        "fill_container": "Làm đầy ô chứa",
+        "icon_animation": "Biểu tượng chuyển động khi kích hoạt?",
+        "icon_color": "Màu biểu tượng",
+        "icon_type": "Kiểu biểu tượng",
+        "layout": "Bố cục",
+        "primary_info": "Thông tin chính",
+        "secondary_info": "Thông tin phụ",
+        "use_entity_picture": "Dùng ảnh của thực thể?",
+        "collapsible_controls": "Thu nhỏ điều kiển khi tắt",
+        "picture": "Hình ảnh",
+        "picture_helper": "Nếu đặt, nó sẽ thay cho biểu tượng."
+      },
+      "vacuum": {
+        "commands": "Mệnh lệnh",
+        "commands_list": {
+          "on_off": "Bật/tắt"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Kiểu mặc định",
+          "entity-picture": "Ảnh thực thể",
+          "icon": "Biểu tượng",
+          "none": "Không có"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Thông tin mặc định",
+          "last-changed": "Lần thay đổi cuối",
+          "last-updated": "Lần cập nhật cuối",
+          "name": "Tên",
+          "none": "Không có",
+          "state": "Trạng thái"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Bố cục mặc định",
+          "horizontal": "Bố cục ngang",
+          "vertical": "Bố cục dọc"
+        }
+      }
+    }
+  }
+}

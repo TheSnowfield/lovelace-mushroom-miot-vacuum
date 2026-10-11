@@ -1,0 +1,55 @@
+{
+  "card": {
+    "not_found": "Varlık bulunamadı"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Kapalıyken kontrolleri daralt",
+        "color": "Renk",
+        "content_info": "İçerik",
+        "fill_container": "Alanı doldur",
+        "icon_animation": "Aktif olduğunda simgeyi hareket ettir?",
+        "icon_color": "Simge renki",
+        "icon_type": "İkon tipi",
+        "layout": "Düzen",
+        "primary_info": "Birinci bilgi",
+        "secondary_info": "İkinci bilgi",
+        "use_entity_picture": "Varlık resmi kullanılsın?"
+      },
+      "vacuum": {
+        "commands": "Komutlar",
+        "commands_list": {
+          "on_off": "Aç/Kapat"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Varsayılan tip",
+          "entity-picture": "Varlık resmi",
+          "icon": "Simge",
+          "none": "Hiçbiri"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Varsayılan bilgi",
+          "last-changed": "Son Değişim",
+          "last-updated": "Son Güncelleme",
+          "name": "İsim",
+          "none": "None",
+          "state": "Durum"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Varsayılan düzen",
+          "horizontal": "Yatay düzen",
+          "vertical": "Dikey düzen"
+        }
+      }
+    }
+  }
+}

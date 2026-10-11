@@ -1,0 +1,54 @@
+{
+  "card": {
+    "not_found": "Entiteta ni najdena"
+  },
+  "editor": {
+    "card": {
+      "generic": {
+        "collapsible_controls": "Strni kontrolnike, ko so izklopljeni",
+        "content_info": "Vsebina",
+        "fill_container": "Zapolnitev prostora",
+        "icon_animation": "Animacija ikone, ko je aktivna?",
+        "icon_color": "Barva ikone",
+        "icon_type": "Vrsta ikone",
+        "layout": "Postavitev",
+        "primary_info": "Primarna informacija",
+        "secondary_info": "Sekundarna informacija",
+        "use_entity_picture": "Uporabi sliko entitete?"
+      },
+      "vacuum": {
+        "commands": "Ukazi",
+        "commands_list": {
+          "on_off": "Vklop/izklop"
+        }
+      }
+    },
+    "form": {
+      "icon_type_picker": {
+        "values": {
+          "default": "Privzeta vrsta",
+          "entity-picture": "Slika entitete",
+          "icon": "Ikona",
+          "none": "Brez"
+        }
+      },
+      "info_picker": {
+        "values": {
+          "default": "Privzete informacije",
+          "last-changed": "Zadnja sprememba",
+          "last-updated": "Zadnja posodobitev",
+          "name": "Naziv",
+          "none": "Brez",
+          "state": "Stanje"
+        }
+      },
+      "layout_picker": {
+        "values": {
+          "default": "Privzeta postavitev",
+          "horizontal": "Horizontalna postavitev",
+          "vertical": "Vertikalna postavitev"
+        }
+      }
+    }
+  }
+}
